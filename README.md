@@ -1,2 +1,2 @@
 # dotfiles
-Al of my Linux configs available here!
+All of my Linux configs will be available shortly!
