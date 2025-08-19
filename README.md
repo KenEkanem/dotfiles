@@ -1,6 +1,6 @@
 # dotfiles
 
-DotFiles from my Linux Setup [Xubuntu_Linux](/xubuntu/)
+DotFiles from my Linux Setup [Xubuntu](/xubuntu/)
 
 Windows powershell
 - Starship Prompt
